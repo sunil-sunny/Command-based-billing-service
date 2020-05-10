@@ -1,5 +1,3 @@
-
-Overview
 This Program reads the input from file as matrix and store into data structure. The user prescribed arithmetic operations are performed on data and then written to the file.
 This Program reads all the elements added by user through commands and add them to levels of linked list based of tossing the coin.
 Several operations are conducted on data as the user enters various commands. Here are the functions written to deal with that scenarios:
