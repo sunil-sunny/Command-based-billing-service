@@ -1,0 +1,4 @@
+name	baseprice	quantity
+bottled water	5	3	
+bread	2	5	
+rice	3	3
